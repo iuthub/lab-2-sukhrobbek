@@ -1,0 +1,28 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+html{
+	background-color: #91784d;
+}
+
+a:link{
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
+
+a:hover{
+	color: blue;
+}
+li::first-line{
+	color: #fff;
+}
+
